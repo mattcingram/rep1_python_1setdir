@@ -1,6 +1,6 @@
 # rep1_python_1setdir
 
-This repository contains files with the initial steps for Replication 1 using the Python language.
+This repository contains files with the initial steps of a reproducible workflow for Replication 1 using the Python language.
 
 The files can be downloaded as one compressed folder using the drop-down menu in the green "Code" button above.
 
